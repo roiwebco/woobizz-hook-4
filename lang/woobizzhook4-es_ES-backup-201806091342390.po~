@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Woobizz Hook 4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-09 13:35+0000\n"
-"PO-Revision-Date: 2018-06-09 13:42+0000\n"
+"PO-Revision-Date: 2018-06-09 13:37+0000\n"
 "Last-Translator: info@roiweb.co <info@roiweb.co>\n"
 "Language-Team: Español\n"
 "Language: es_ES\n"
@@ -17,7 +17,7 @@ msgstr ""
 #: woobizz-hook-4.php:24
 msgid "Add content after the purchase button on the payment page"
 msgstr ""
-"Agregar contenido después del botón de compra en la página de pago\n"
+"Agregar contenido antes del botón de compra en la página de pago\n"
 
 #. URI of the plugin
 #. Author URI of the plugin

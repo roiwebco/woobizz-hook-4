@@ -2,33 +2,32 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Woobizz Hook 4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-24 08:33+0000\n"
-"PO-Revision-Date: 2017-06-24 08:59+0000\n"
-"Last-Translator: André Meza <andre.roussille@gmail.com>\n"
+"POT-Creation-Date: 2018-06-09 13:35+0000\n"
+"PO-Revision-Date: 2018-06-09 13:38+0000\n"
+"Last-Translator: info@roiweb.co <info@roiweb.co>\n"
 "Language-Team: French (France)\n"
-"Language: fr-FR\n"
-"Plural-Forms: nplurals=2; plural=n > 1\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Loco - https://localise.biz/"
-
-#. Name of the plugin
-#: woobizz-hook-4.php:19
-msgid "Woobizz Hook 4"
-msgstr ""
+"X-Generator: Loco https://localise.biz/"
 
 #. Description of the plugin
-#: woobizz-hook-4.php:20
-msgid "Add content after buy button on checkout page"
-msgstr ""
-"Ajouter du contenu après le bouton d'achat sur la page de paiement\n"
+#: woobizz-hook-4.php:24
+msgid "Add content after the purchase button on the payment page"
+msgstr "Ajouter du contenu avant le bouton d’achat sur la page de paiement"
 
 #. URI of the plugin
 #. Author URI of the plugin
 msgid "http://woobizz.com"
 msgstr ""
 
+#. Name of the plugin
+#: woobizz-hook-4.php:23
+msgid "Woobizz Hook 4"
+msgstr ""
+
 #. Author of the plugin
-msgid "Woobizz"
+msgid "WOOBIZZ.COM"
 msgstr ""
